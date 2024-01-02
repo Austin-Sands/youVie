@@ -1,16 +1,7 @@
 # youvie
 
-A new Flutter project.
+My first Flutter project. An app that will generate a list of random movies/tv shows based on filter criteria for when I can't make up my mind about what to watch. 
 
-## Getting Started
+Functionality plans are to allow users to add movies to a watchlist, seen list, and ignore list. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+All movie and show information pulled from TMDB using their API
